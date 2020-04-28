@@ -1,6 +1,6 @@
 public class Count {
     
-    public int count() {
-        return 11;
+    public String count(int num) {
+        return "Counting the countless" + num;
     }
 }

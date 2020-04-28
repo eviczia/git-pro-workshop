@@ -1,6 +1,6 @@
 public class Greet {
 
-    public String greet() {
-        return "Hajni";
+    public static void  greet(String parameter) {
+        System.out.println(parameter);
     }
 }

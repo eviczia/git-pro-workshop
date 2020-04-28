@@ -1,6 +1,7 @@
 public class Future {
 
-    public static void future(String myHoroscope) {
-        System.out.println("Your future looks like" + myHoroscope);
+
+    public void future(String horoscope, String chineseHoroscpoe ) {
+        System.out.println(horoscope + " " +chineseHoroscpoe);
     }
 }
